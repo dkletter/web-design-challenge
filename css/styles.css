@@ -1,0 +1,7 @@
+.img-plot {
+	border: 4px solid #FFF;
+}
+
+.img-plot:hover {
+	border: 4px solid #52528C;
+}
