@@ -7,6 +7,16 @@ h2, h3 {
 	color: var(--color);
 }
 
+a {
+    color: var(--color);
+    text-decoration: underline;
+}
+a:hover,
+a:focus {
+	color: var(--color);
+    text-decoration: none;
+}
+
 .img-plot {
 	border: 4px solid #FFF;
 }
